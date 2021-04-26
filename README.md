@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexlin51
 - 👀 I’m interested in Web Development and Machine Learning things!
-- 🌱 I’m currently learning lots of math!
+- 🌱 I’m currently learning lots of math and software engineering things!
 - 💞️ I’m looking to collaborate on cool and interesting projects :)
 - 📫 How to reach me -> alexander88lin@yahoo.com
 
